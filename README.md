@@ -18,3 +18,11 @@ After selecting you can modify content using these properties:
 -variable.InnerHtml="......"(Set or Get the Html content of an element)
 -Value="....." (Set or Get the input value of an element)
 
+Method and properties
+A property is a value that you can get or set (like changing the content of an HTML element). 
+A method is an action you can do (like add or deleting an HTML element).
+Example
+document.getElementById("demo").innerHTML = "Hello World!";
+In the example above the getElementById method used id="demo" to find the element.
+The innerHTML property is useful for getting or replacing the content of HTML elements.
+
