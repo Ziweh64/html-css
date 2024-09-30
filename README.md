@@ -26,3 +26,11 @@ document.getElementById("demo").innerHTML = "Hello World!";
 In the example above the getElementById method used id="demo" to find the element.
 The innerHTML property is useful for getting or replacing the content of HTML elements.
 
+
+React
+-it is the library for javascript. Components are building blocks of react
+-JSX (JavaScript XML) is the syntax used within React to describe what the UI should look like.
+-A component is a self-contained piece of code that represents part of the user interface.
+-Components with states focus on how things works.
+
+
