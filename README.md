@@ -30,7 +30,10 @@ The innerHTML property is useful for getting or replacing the content of HTML el
 React
 -it is the library for javascript. Components are building blocks of react
 -JSX (JavaScript XML) is the syntax used within React to describe what the UI should look like.
--A component is a self-contained piece of code that represents part of the user interface.
+-A component is a self-contained piece of code that represents part of the user interface. a fumction that returns a jsx.
+- Props passed a component
+- Npm Node package manager It serves as a package manager for JavaScript
+- State stores the value of the components. Helps trackas the variables (strings, numbers e.t.c)
 -Components with states focus on how things works.
 
 
