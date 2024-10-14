@@ -37,3 +37,5 @@ React
 -Components with states focus on how things works.
 
 
+Python
+-Python id case sensitive A and a are not the same
