@@ -1,5 +1,5 @@
 # Learning Path
-#javascript
+##javascript
 DOM is a programming interface that allows languages like javascript interact with the structure of webpages.It is used for Changing Content, Changing Styles, Adding/Removing Classes, Changing Attributes, Creating and Inserting Elements. Now the question is how?
 Creating an element - document.createElement()
 Innertext prints only visible text then textContent prints all the content even the hiden content.
