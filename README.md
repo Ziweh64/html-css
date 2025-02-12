@@ -1,5 +1,5 @@
 # Learning Path
-##javascript
+**javascript**
 DOM is a programming interface that allows languages like javascript interact with the structure of webpages.It is used for Changing Content, Changing Styles, Adding/Removing Classes, Changing Attributes, Creating and Inserting Elements. Now the question is how?
 Creating an element - document.createElement()
 Innertext prints only visible text then textContent prints all the content even the hiden content.
@@ -27,7 +27,7 @@ In the example above the getElementById method used id="demo" to find the elemen
 The innerHTML property is useful for getting or replacing the content of HTML elements.
 
 
-React
+**React**
 -it is the library for javascript. Components are building blocks of react
 -JSX (JavaScript XML) is the syntax used within React to describe what the UI should look like.
 -A component is a self-contained piece of code that represents part of the user interface. a fumction that returns a jsx.
@@ -37,5 +37,5 @@ React
 -Components with states focus on how things works.
 
 
-Python
+**Python**
 -Python id case sensitive A and a are not the same
